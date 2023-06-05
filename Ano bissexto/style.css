@@ -1,0 +1,16 @@
+.btn{
+    padding: 20px;
+    margin: 10x;
+    border-radius: 4px solid;
+}
+
+div{
+    background-color: rgb(237, 40, 40);
+    margin: 200px;
+    padding: 70px;
+    border-radius: 15px;
+}
+
+body{
+    background-color: rgb(87, 17, 9);
+}
